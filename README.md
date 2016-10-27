@@ -1,2 +1,2 @@
 # wp-castle-api
-A WordPress php library for interacting with the Castle API.
+A WordPress php library for interacting with the [Castle API](https://castle.io/).
